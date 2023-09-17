@@ -6,7 +6,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.sadhin555.git.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://sadhin555.github.io/loopstudios-landing-page/) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a good understanding of HTML and CSS and a basic understanding of JavaScript.**
 
